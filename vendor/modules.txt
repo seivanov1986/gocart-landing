@@ -1,0 +1,84 @@
+# github.com/gorilla/mux v1.8.1
+## explicit; go 1.20
+github.com/gorilla/mux
+# github.com/jmoiron/sqlx v1.3.5
+## explicit; go 1.10
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# github.com/pressly/goose/v3 v3.17.0
+## explicit; go 1.19
+github.com/pressly/goose/v3
+github.com/pressly/goose/v3/database
+github.com/pressly/goose/v3/internal/dialect
+github.com/pressly/goose/v3/internal/dialect/dialectquery
+github.com/pressly/goose/v3/internal/sqlparser
+github.com/pressly/goose/v3/lock
+# github.com/seivanov1986/gocart v0.0.0-20231222120852-6250d798f329
+## explicit; go 1.21.3
+github.com/seivanov1986/gocart
+github.com/seivanov1986/gocart/client
+github.com/seivanov1986/gocart/external/ajax_manager
+github.com/seivanov1986/gocart/external/asset_manager
+github.com/seivanov1986/gocart/external/cache_builder
+github.com/seivanov1986/gocart/external/cache_service
+github.com/seivanov1986/gocart/external/observer
+github.com/seivanov1986/gocart/external/widget_manager
+github.com/seivanov1986/gocart/helpers
+github.com/seivanov1986/gocart/internal/http/attribute
+github.com/seivanov1986/gocart/internal/http/attribute_to_product
+github.com/seivanov1986/gocart/internal/http/auth
+github.com/seivanov1986/gocart/internal/http/category
+github.com/seivanov1986/gocart/internal/http/common
+github.com/seivanov1986/gocart/internal/http/file
+github.com/seivanov1986/gocart/internal/http/image_to_category
+github.com/seivanov1986/gocart/internal/http/image_to_product
+github.com/seivanov1986/gocart/internal/http/page
+github.com/seivanov1986/gocart/internal/http/product
+github.com/seivanov1986/gocart/internal/http/product_to_category
+github.com/seivanov1986/gocart/internal/http/sefurl
+github.com/seivanov1986/gocart/internal/http/user
+github.com/seivanov1986/gocart/internal/middleware/auth
+github.com/seivanov1986/gocart/internal/middleware/common
+github.com/seivanov1986/gocart/internal/middleware/cors
+github.com/seivanov1986/gocart/internal/repository
+github.com/seivanov1986/gocart/internal/repository/attribute
+github.com/seivanov1986/gocart/internal/repository/attribute_to_product
+github.com/seivanov1986/gocart/internal/repository/category
+github.com/seivanov1986/gocart/internal/repository/category_closure
+github.com/seivanov1986/gocart/internal/repository/image_to_category
+github.com/seivanov1986/gocart/internal/repository/image_to_product
+github.com/seivanov1986/gocart/internal/repository/meta
+github.com/seivanov1986/gocart/internal/repository/page
+github.com/seivanov1986/gocart/internal/repository/product
+github.com/seivanov1986/gocart/internal/repository/product_to_category
+github.com/seivanov1986/gocart/internal/repository/sefurl
+github.com/seivanov1986/gocart/internal/repository/user
+github.com/seivanov1986/gocart/internal/service/attribute
+github.com/seivanov1986/gocart/internal/service/attribute_to_product
+github.com/seivanov1986/gocart/internal/service/auth
+github.com/seivanov1986/gocart/internal/service/category
+github.com/seivanov1986/gocart/internal/service/common
+github.com/seivanov1986/gocart/internal/service/image_to_category
+github.com/seivanov1986/gocart/internal/service/image_to_product
+github.com/seivanov1986/gocart/internal/service/page
+github.com/seivanov1986/gocart/internal/service/product
+github.com/seivanov1986/gocart/internal/service/product_to_category
+github.com/seivanov1986/gocart/internal/service/sefurl
+github.com/seivanov1986/gocart/internal/service/user
+github.com/seivanov1986/gocart/internal/widget/example
+# github.com/seivanov1986/sql_client v0.0.0-20231216214101-95ab70c756e2
+## explicit; go 1.21
+github.com/seivanov1986/sql_client
+# github.com/sethvargo/go-retry v0.2.4
+## explicit; go 1.16
+github.com/sethvargo/go-retry
+# go.uber.org/multierr v1.11.0
+## explicit; go 1.19
+go.uber.org/multierr
+# golang.org/x/crypto v0.17.0
+## explicit; go 1.18
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# golang.org/x/sync v0.5.0
+## explicit; go 1.18
+golang.org/x/sync/errgroup
